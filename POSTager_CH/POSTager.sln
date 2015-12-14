@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "POSTager", "POSTager.vcproj", "{9E9C8B46-8DDA-4F9D-B273-2AF701A64D5E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9E9C8B46-8DDA-4F9D-B273-2AF701A64D5E}.Debug.ActiveCfg = Debug|Win32
+		{9E9C8B46-8DDA-4F9D-B273-2AF701A64D5E}.Debug.Build.0 = Debug|Win32
+		{9E9C8B46-8DDA-4F9D-B273-2AF701A64D5E}.Release.ActiveCfg = Release|Win32
+		{9E9C8B46-8DDA-4F9D-B273-2AF701A64D5E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
